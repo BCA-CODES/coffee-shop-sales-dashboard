@@ -14,6 +14,8 @@ An Excel dashboard created to analyze coffee shop sales data (from Kaggle). This
 - **Time of day sales** using pie chart
 - **Interactive Slicers** for filtering data by month
 
+**Dashboard**
+![Alt text](images/coffee_Dashboard.png)
 
 🔗 **Dataset Source**: [Kaggle Coffee Shop Dataset](https://www.kaggle.com/datasets/reignrichard/coffee-store-sales)  
   
