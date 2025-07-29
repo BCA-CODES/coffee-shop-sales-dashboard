@@ -15,7 +15,8 @@ An Excel dashboard created to analyze coffee shop sales data (from Kaggle). This
 - **Interactive Slicers** for filtering data by month
 
 **Dashboard**
-![Alt text](images/coffee_Dashboard.png)
+<img width="1857" height="958" alt="coffee_Dashboard" src="https://github.com/user-attachments/assets/aca6fa18-3f27-403d-bc67-dde305d18f70" />
+
 
 🔗 **Dataset Source**: [Kaggle Coffee Shop Dataset](https://www.kaggle.com/datasets/reignrichard/coffee-store-sales)  
   
